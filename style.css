@@ -45,6 +45,10 @@ margin: 30px;
         flex: 1; /* Takes up the available space */
         padding: 0 20px; /* Optional padding for text content */
     }
+    h5,h4{
+        font-size: xx-large;
+
+    }
 
 
     
