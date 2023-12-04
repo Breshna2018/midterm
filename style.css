@@ -52,4 +52,23 @@ margin: 30px;
 
 
     
+header,main,aside,footer{
+
+    border: 1px solid #ccc;
+    margin: 5px;
+    width: 100;
+}
+aside:nth-child(1){
+
+    float: left;
+    width: 60%;
+}
+aside:nth-child(2){
+
+    height: 400px;
+    width: 35%;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    border: saddlebrown;
 }
